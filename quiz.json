@@ -1,22 +1,22 @@
-quiz = {
-	"1": {
+{
+	"q01": {
 		"topic":"Team setup",
 		"question":"What will your team look like?",
 		"answers": [
-			{"ans1":"Scrum Master, Product Owner, Scrum Team", "agile":"50", "water":"-50"}
-			{"ans2":"Don't know jet", "agile":"0", "water":"0"}
-			{"ans3":"There will be a Project Manager, some Developers doing x, others doing y...", "agile":"-20", "water":"20"}
+			{"ans1":"Scrum Master, Product Owner, Scrum Team", "agile":50, "water":-50}
+			{"ans2":"Don't know jet", "agile":0, "water":0}
+			{"ans3":"There will be a Project Manager, some Developers doing x, others doing y...", "agile":-20, "water":20}
 		]
 	}
 
 
-	"2" {
+	"q02" {
 		"topic":"Text",
 		"question":"Smart people?",
 		"answers": [
-			{"ans1":"Yes", "agile":"50", "water":"20"}
-			{"ans2":"Maybe", "agile":"-10", "water":"0"}
-			{"ans3":"No", "agile":"-20", "water":"-10"}
+			{"ans1":"Yes", "agile":50, "water":20}
+			{"ans2":"Maybe", "agile":-10, "water":0}
+			{"ans3":"No", "agile":-20, "water":-10}
 		]
 	}
 
